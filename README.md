@@ -1,3 +1,6 @@
-Grilli - Amazing & Delicious Food
+# Grilli - Amazing & Delicious Food
 
-This is a Restaurant  template Using HTML - CSS - JS
+This is a Restaurant  template Using :
+- HTML 
+- CSS
+- JS
